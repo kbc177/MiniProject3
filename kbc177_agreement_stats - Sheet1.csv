@@ -1,0 +1,6 @@
+Field,PercentAgree_Pre,PercentAgree_Post,CohenKappa_Pre,CohenKappa_Post,NumDisagreements,NumResolved,Notes
+HasRecovered,~87% (26/30),100% (30/30),~0.55,~1.00,4,4,Estimate assumes 30 validations. Pre-agreement inferred from 4 visible disagreements.
+ActivityPattern,~90% (27/30),100% (30/30),~0.60,~1.00,3,3,Same assumption.
+RecentThemes,~93% (28/30),100% (30/30),~0.65,~1.00,2,2,Same assumption.
+CurrentStatus,~93% (28/30),100% (30/30),~0.65,~1.00,2,2,Same assumption.
+Whitelisted,~97% (29/30),100% (30/30),~0.70,~1.00,1,1,Same assumption.

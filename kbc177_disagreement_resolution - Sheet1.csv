@@ -1,0 +1,11 @@
+WOCProjectID,ProjectOwner,ValidatorNetID,Field,AuthorValue,ValidatorValue,AdjudicatedValue,ResolutionType
+https://github.com/baribagroup,kbc177,asangiul,HasRecovered,Partial,No,,ValidatorKept
+https://github.com/brian-team,kbc177,asangiul,HasRecovered,Yes,No,,ValidatorKept
+https://github.com/yeatmanlab,kbc177,asangiul,HasRecovered,Partial,No,,ValidatorKept
+https://github.com/brian-team,kbc177,asangiul,ActivityPattern,Increasing,Decreasing,,ValidatorKept
+https://github.com/LINL-hoo,kbc177,asangiul,ActivityPattern,Increasing,Decreasing,,ValidatorKept
+https://github.com/magic-sohn,kbc177,asangiul,ActivityPattern,Increasing,Decreasing,,ValidatorKept
+https://github.com/insightSoftr,kbc177,asangiul,RecentThemes,Documentation updates: Other,Documentation updates: Bug fixes,,ValidatorKept
+https://github.com/yeatmanlab,kbc177,asangiul,RecentThemes,Documentation updates: Other,Other,,ValidatorKept
+https://github.com/pmelchor/ra,asangiul,kbc177,CurrentStatus,Active,Inactive,Inactive,ValidatorKept
+https://github.com/OpenIntroStat,asangiul,kbc178,CurrentStatus,Inactive,Active,Active,ValidatorKept
